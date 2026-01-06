@@ -571,14 +571,14 @@ span{
 
     .sub-header, 
     .portfolio-header,
-    .portfolio-ligth__header{
+    .portfolio-light__header{
         margin-bottom: 68px;
 }
 
 @media(max-width: 767.98px){
     .sub-header, 
     .portfolio-header,
-    .portfolio-ligth__header{
+    .portfolio-light__header{
          margin-bottom: 48px;
     }
 }
