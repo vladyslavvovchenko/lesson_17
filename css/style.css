@@ -66,8 +66,8 @@ span{
 }
 
 .header, .footer{
-    background: linear-gradient(0deg,rgba(230, 55, 200, 1) 25%, rgba(251, 157, 16, 1) 77%);
-    color: #282fb5;
+    background: linear-gradient(180deg,rgba(2, 0, 36, 1) 0%, rgba(204, 160, 16, 1) 68%);
+    color: #00D4FF;
 }
 
 @media (max-width: 767px){
