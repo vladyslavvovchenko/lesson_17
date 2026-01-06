@@ -39,7 +39,7 @@ img{
     max-width: 100%;
 }
 
-h2,h3{
+h2{
     font-weight: 800;
     font-size: 25px;
     line-height: 1.14;
@@ -48,14 +48,14 @@ h2,h3{
 }
 
 @media (min-width: 768px){
-    h2,h3{
+    h2{
         font-size: 40px;
         line-height: 1.2;
     }
 }
 
 @media (min-width: 992px){
-    h2,h3{
+    h2{
         font-size: 56px;
         line-height: 1.2;
     }
@@ -722,7 +722,6 @@ span{
         color: #fff;
     }
 }
-
 
 
 
